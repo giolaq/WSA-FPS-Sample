@@ -24,4 +24,4 @@ Aim by using right joystick on the screen pr the right stick of the gamepad cont
 Shoot your weapon by clicking the left button of the mouse, the CTRL on your keyboard or the right trigger of the connected controller.
 
 ## Supported inputs
-To check the other supported commands and input devices open the GamepadControls.inputaction asset
+To check the other supported commands and input devices open the [GamepadControls.inputaction](https://github.com/giolaq/WSA-FPS-Sample/blob/main/Assets/FPS/Scripts/Controls/GamepadControls.inputactions) asset
